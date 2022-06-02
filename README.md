@@ -10,6 +10,12 @@ Please DO NOT use copies of our plugins. They may contain malicious code, thus i
 
 If you face any bugs or harmful code while using those plugins, we will not give any support. **You are liable for your own decision.**
 
+# Libraries Required
+Injecting will not be possible... given the current state, so you'll have to use [DEVirion](https://github.com/poggit/devirion) but be careful if it's for production use. Use the specific ones linked below:
+- [libMarshal](https://github.com/sylvrs/libMarshal)
+- [Commando](https://github.com/AIPTU/Commando)
+- [FormAPI](https://github.com/DaPigGuy/FormAPI-4.0.0)
+
 # Features
 
 | Features        | MagicBankUI           | BankUI  |
