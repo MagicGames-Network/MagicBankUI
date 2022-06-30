@@ -1,0 +1,50 @@
+// CONFIGURATION FOR BANKS
+
+// Do not change the name of the bank if it is already being used by players!
+// You can add as many banks as you want as long as it's appropriate.
+[
+    {
+        "name": "Bank of MagicGames",
+        "description": "The most reliable bank for players!",
+        "logo": "https://cdn-icons-png.flaticon.com/128/1086/1086741.png",
+        "approvalSeconds": 300,
+        "interestRate": 0.001,
+        "depositTax": 50,
+        "withdrawTax": 50,
+        "transferTax": 50,
+        "startingMoney": 100
+    },
+    {
+        "name": "Cosmic Banks",
+        "description": "The best bank for growing businesses!",
+        "logo": "https://cdn-icons-png.flaticon.com/128/1138/1138038.png",
+        "approvalSeconds": 1800,
+        "interestRate": 0.003,
+        "depositTax": 10,
+        "withdrawTax": 5,
+        "transferTax": 25,
+        "startingMoney": 0
+    },
+    {
+        "name": "Bank of Pushkar",
+        "description": "The best bank for instant approval! Receive a free sum of $1000 after signing up!",
+        "logo": "https://cdn-icons-png.flaticon.com/128/584/584011.png",
+        "approvalSeconds": 0,
+        "interestRate": 0.0005,
+        "depositTax": 100,
+        "withdrawTax": 100,
+        "transferTax": 100,
+        "startingMoney": 1000
+    },
+    {
+        "name": "AGTHARN Inc.",
+        "description": "No fees, no taxes, no problems! ",
+        "logo": "https://cdn-icons-png.flaticon.com/512/4334/4334638.png",
+        "approvalSeconds": 1800,
+        "interestRate": 0.001,
+        "depositTax": 0,
+        "withdrawTax": 0,
+        "transferTax": 0,
+        "startingMoney": 0
+    }
+]
