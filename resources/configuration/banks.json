@@ -1,7 +1,3 @@
-// CONFIGURATION FOR BANKS
-
-// Do not change the name of the bank if it is already being used by players!
-// You can add as many banks as you want as long as it's appropriate.
 [
     {
         "name": "Bank of MagicGames",
